@@ -1,0 +1,43 @@
+body{
+    background-image: url('http://www.gifs.eco.br/wp-content/uploads/2017/12/Melhores-Imagens-Animadas-de-Cora%C3%A7%C3%B5es.gif');
+    background-size: 460px 480px;
+    font-family: verdana;
+    heigth: 100vh;
+  }
+  .menu{
+   background-color: white;
+  }
+  a{
+    color: teal;
+    text-decoration: none;
+  }
+  a:hover{
+      text-decoration: underline;
+  
+  }
+  
+  .menu ul{
+    display: flex;
+    justify-content: space-between;
+  }
+  .menu li{
+    list-style: none;
+  }
+  .site-subtitle,
+  .site-title{
+    color: whitesmoke;
+    height: 9em;
+    display: flex;
+    align-items: center;
+    justify-content: center
+    
+  
+  
+  }
+  
+  .site-subtitle{
+    font-style: italic;
+    font-size: 32px;
+    color: teal;
+  }
+  
